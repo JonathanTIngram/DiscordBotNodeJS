@@ -15,9 +15,9 @@ client.on('ready', () => {
 });
 
 client.on('message', (msg) =>{
-	if (msg.content === 'pog') {
-		msg.reply('poggeres');	
+	if (msg.content === 'hey now') {
+		msg.reply("you're an allstar");	
 	}
 });
 
-client.login('Nzg5OTMyMjc2NDc3MDY3Mjg0.X95Pwg.BlFZ4qmeDTPMEH-Rl5bV-XmsTUo');
+client.login('put client code here');
