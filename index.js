@@ -3,7 +3,7 @@
 
  @author : Jonathan Ingram
  Created : 12/19/2020
- Project : Discord bot for nightshift server
+ Project : Discord bot 
 */
 
 
