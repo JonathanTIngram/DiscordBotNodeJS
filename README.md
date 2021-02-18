@@ -23,6 +23,7 @@ https://discord.com/developers/docs/intro
   
   
   Type: node index.js
+  
   in terminal
   
   If you're running on your local machine you could you nodemon or something like to auto restart,
