@@ -6,6 +6,8 @@ Simple and easy way to setup a discord bot using NodeJS
 Step by Step
 
 1) Make sure you have Node installed
+  
+  
   Type node in terminal to check 
 
 https://nodejs.org/en/
