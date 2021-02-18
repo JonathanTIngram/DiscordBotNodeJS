@@ -20,4 +20,4 @@ client.on('message', (msg) =>{
 	}
 });
 
-client.login('put client code here');
+client.login('put client key here'); //you should really put this in an .env file but its here for simplicity
