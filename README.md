@@ -26,5 +26,5 @@ https://discord.com/developers/docs/intro
   
   in terminal
   
-  If you're running on your local machine you could you nodemon or something like to auto restart,
+  If you're running on your local machine you could use nodemon or something like it to auto restart,
   but but it might be a good idea to use something like pm2.
