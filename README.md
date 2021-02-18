@@ -20,6 +20,8 @@ https://discord.com/developers/docs/intro
 4) Copy and paste your client login key
 
 5) Run it
+  
+  
   Type: node index.js
   in terminal
   
